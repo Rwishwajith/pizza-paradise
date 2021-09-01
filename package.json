@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "boostrap": "^2.0.0",
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^2.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "react": "^17.0.2"
+  },
+  "name": "pizza-paradise",
+  "description": "This repository is used for the front end development of Pizza Paradise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rwishwajith/Pizza-Paradise.git"
+  },
+  "author": "Ruchira Wishwajith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rwishwajith/Pizza-Paradise/issues"
+  },
+  "homepage": "https://github.com/Rwishwajith/Pizza-Paradise#readme"
+}
