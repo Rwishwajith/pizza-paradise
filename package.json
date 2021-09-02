@@ -7,7 +7,7 @@
     "jsonwebtoken": "^8.5.1",
     "react": "^17.0.2"
   },
-  "name": "pizza-paradise",
+  "name": "pizza-paradise-shop",
   "description": "This repository is used for the front end development of Pizza Paradise",
   "version": "1.0.0",
   "main": "index.js",
@@ -23,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/Rwishwajith/Pizza-Paradise/issues"
   },
-  "homepage": "https://github.com/Rwishwajith/Pizza-Paradise#readme"
+  "homepage": "https://github.com/Rwishwajith/Pizza-Paradise#readme",
+  "devDependencies": {}
 }
